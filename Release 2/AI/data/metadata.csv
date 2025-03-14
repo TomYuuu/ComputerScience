@@ -1,0 +1,34 @@
+column_name,description
+CommunityAreaName,Community Area Name
+HOUSPRB,Percentage of households facing severe housing problems
+HOUSBURD,Percentage of households experiencing housing cost burden
+BROADND,Percentage of households with broadband access
+TRAFVOL,Traffic volume index
+SCHLRAT,Average school quality rating
+COLLACC,Access to higher education institutions
+HSDROP,High school dropout rate
+ASPROG,Access to after-school programs & libraries
+UNEMPLOY,Unemployment rate
+MEDINC,Median household income
+CHILCBD,Childcare cost burden
+SOCASSO,Social associations per capita
+VCRIME,Violent crime rate
+PCRIME,Property crime rate
+ERTIME,Average emergency response time
+VSSERV,Availability of victim support services
+NOINSURE,Percentage of residents without health insurance
+PCPHYS,Primary care physician availability
+DENTAC,Dental care access
+MHPROV,Mental health provider availability
+CARDIO,Cardiovascular disease prevalence
+DIABETES,Diabetes prevalence
+RESPIR,Respiratory disease prevalence
+MHDIS,Mental health disorder rate
+CURSMOKE,Adult smoking rate
+BINGEDRINK,Binge drinking prevalence
+DRUGOD,Drug overdose deaths
+PHYINACT,Physical inactivity
+AIRQUAL,Air quality index
+WATQUAL,Water quality
+HEATVUL,Heat vulnerability index
+NOISEP,Noise pollution exposure
